@@ -1,5 +1,5 @@
 # Chemicality
-Chemicality redefines the way you interact with databases using data science and python. Made for the iNTUition Hackathon 2021 as track submission for HP Inc.
+Chemicality redefines the way you interact with databases using data science and python. It can scrap text from pdfs and arrange them effectively using data science tools such as pandas. Made for the iNTUition Hackathon 2021 as track submission for HP Inc.
 
 <b>Required pip installations:</b>
 <br>
